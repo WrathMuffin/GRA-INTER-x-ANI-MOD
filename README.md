@@ -11,6 +11,8 @@ Animation and modelling
 
 ● STUDENT NAME: [CHARLEEN CHU]
 
+NOTE: Project are organized within Assets
+
 LEC - In class activities!!!
 
 LAB - Labs and stuff!!!!!!
