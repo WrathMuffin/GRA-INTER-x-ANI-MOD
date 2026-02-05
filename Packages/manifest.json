@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.mitay-walle.gradient-texture": "https://github.com/mitay-walle/com.mitay-walle.gradient-texture.git",
     "com.unity.ai.navigation": "2.0.9",
     "com.unity.cinemachine": "3.1.5",
     "com.unity.collab-proxy": "2.11.2",
