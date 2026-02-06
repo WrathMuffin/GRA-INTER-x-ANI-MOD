@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Activity 4 mat
+  m_Name: Link shirt
   m_Shader: {fileID: -6465566751694194690, guid: a79ae6aa74c296e469bbc00154b6b71e, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -46,19 +46,19 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Glossiness: 9.4
-    - _Noise_density: 0.286
+    - _Glossiness: 6.67
+    - _Noise_density: 0.25
     - _Noise_scale: 67
-    - _Noise_sharpness: 0.694
+    - _Noise_sharpness: 0.67
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Rim_power: 6.94
+    - _Rim_power: 6.67
     - _Speed: 0.5
-    - _Toon_brightness: 0.662
-    - _Toon_shading_amount: 10.31
+    - _Toon_brightness: 1
+    - _Toon_shading_amount: 6.67
     m_Colors:
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
-    - _Rim_color: {r: 1, g: 0.95429766, b: 0.65723264, a: 1}
+    - _Rim_color: {r: 0.8627452, g: 0.07843138, b: 0.2352941, a: 1}
     - _Tiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
