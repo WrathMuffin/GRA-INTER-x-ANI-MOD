@@ -1,4 +1,4 @@
-# ANI MOD x GRA-INTER
+# GRA-INTER x ANI MOD
 Animation and modelling
 
 #LAB 1#
