@@ -1,5 +1,5 @@
 # GRA-INTER x ANI MOD
-Animation and modelling
+Intermediate Graphics x Animation and modelling
 
 #LAB 1#
 Spreadsheet documenting the shot lists: https://docs.google.com/spreadsheets/d/1TtEpafFAfSmeT09-ec66nu40GxLit3jIep-tUDrY6Co/edit?usp=sharing
